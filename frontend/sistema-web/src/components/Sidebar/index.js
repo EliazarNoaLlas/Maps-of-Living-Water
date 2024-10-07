@@ -11,127 +11,127 @@ const Sidebar = () => {
   return (
     <div className="sidebar">
       <div className="sidebar-header">
-        <h2 className="sidebar-title">Monitoreo de Calidad de Agua - Cusco</h2>
+        <h2 className="sidebar-title">Water Quality Monitoring - Cusco</h2>
       </div>
       <ul className="sidebar-menu">
-        {/* Sección de Selección de Cuenca */}
+        {/* Watershed Selection Section */}
         <li className="accordion-item">
-          <button className="accordion-trigger" onClick={() => toggleSection("cuenca")}>
-            Selección de Cuenca
+          <button className="accordion-trigger" onClick={() => toggleSection("watershed")}>
+            Watershed Selection
           </button>
-          {activeSection === "cuenca" && (
+          {activeSection === "watershed" && (
             <div className="accordion-content">
               <ul>
                 <li>Urubamba</li>
                 <li>Apurímac</li>
-                <li>Otras cuencas relevantes</li>
+                <li>Other relevant watersheds</li>
               </ul>
             </div>
           )}
         </li>
 
-        {/* Sección de Cuerpo de Agua */}
+        {/* Water Body Section */}
         <li className="accordion-item">
-          <button className="accordion-trigger" onClick={() => toggleSection("cuerposAgua")}>
-            Cuerpo de Agua
+          <button className="accordion-trigger" onClick={() => toggleSection("waterBodies")}>
+            Water Body
           </button>
-          {activeSection === "cuerposAgua" && (
+          {activeSection === "waterBodies" && (
             <div className="accordion-content">
               <ul>
-                <li>Río Vilcanota</li>
-                <li>Río Huatanay</li>
-                <li>Río Urubamba</li>
-                <li>Río Salcca</li>
-                <li>Quebrada Chocco</li>
-                <li>Otros ríos y quebradas</li>
+                <li>Vilcanota River</li>
+                <li>Huatanay River</li>
+                <li>Urubamba River</li>
+                <li>Salcca River</li>
+                <li>Chocco Creek</li>
+                <li>Other rivers and creeks</li>
               </ul>
             </div>
           )}
         </li>
 
-        {/* Sección de Punto de Muestreo */}
+        {/* Sampling Point Section */}
         <li className="accordion-item">
-          <button className="accordion-trigger" onClick={() => toggleSection("puntoMuestreo")}>
-            Punto de Muestreo
+          <button className="accordion-trigger" onClick={() => toggleSection("samplingPoint")}>
+            Sampling Point
           </button>
-          {activeSection === "puntoMuestreo" && (
+          {activeSection === "samplingPoint" && (
             <div className="accordion-content">
               <select>
                 <option>RVilc1</option>
                 <option>RHuat6</option>
-                <option>ROtro</option>
+                <option>ROther</option>
               </select>
             </div>
           )}
         </li>
 
-        {/* Sección de Período de Tiempo */}
+        {/* Time Period Section */}
         <li className="accordion-item">
-          <button className="accordion-trigger" onClick={() => toggleSection("periodo")}>
-            Período de Tiempo
+          <button className="accordion-trigger" onClick={() => toggleSection("timePeriod")}>
+            Time Period
           </button>
-          {activeSection === "periodo" && (
+          {activeSection === "timePeriod" && (
             <div className="accordion-content">
               <ul>
-                <li>Año</li>
-                <li>Mes (si aplica)</li>
+                <li>Year</li>
+                <li>Month (if applicable)</li>
               </ul>
             </div>
           )}
         </li>
 
-        {/* Sección de Parámetros de Calidad */}
+        {/* Quality Parameters Section */}
         <li className="accordion-item">
-          <button className="accordion-trigger" onClick={() => toggleSection("parametros")}>
-            Parámetros de Calidad
+          <button className="accordion-trigger" onClick={() => toggleSection("qualityParameters")}>
+            Quality Parameters
           </button>
-          {activeSection === "parametros" && (
+          {activeSection === "qualityParameters" && (
             <div className="accordion-content">
               <ul>
                 <li><input type="checkbox" /> pH</li>
-                <li><input type="checkbox" /> Conductividad</li>
-                <li><input type="checkbox" /> Turbidez</li>
-                <li><input type="checkbox" /> Oxígeno disuelto</li>
-                <li><input type="checkbox" /> DBO5</li>
+                <li><input type="checkbox" /> Conductivity</li>
+                <li><input type="checkbox" /> Turbidity</li>
+                <li><input type="checkbox" /> Dissolved oxygen</li>
+                <li><input type="checkbox" /> BOD5</li>
               </ul>
             </div>
           )}
         </li>
 
-        {/* Sección de Comparar con ECA */}
+        {/* Compare with ECA Section */}
         <li className="accordion-item">
-          <button className="accordion-trigger" onClick={() => toggleSection("compararECA")}>
-            Comparar con ECA
+          <button className="accordion-trigger" onClick={() => toggleSection("compareECA")}>
+            Compare with ECA
           </button>
-          {activeSection === "compararECA" && (
+          {activeSection === "compareECA" && (
             <div className="accordion-content">
               <ul>
-                <li><input type="radio" name="eca" /> Cat.3-D1 (Riego de vegetales)</li>
-                <li><input type="radio" name="eca" /> Cat.3-D2 (Bebida de animales)</li>
+                <li><input type="radio" name="eca" /> Cat.3-D1 (Vegetable irrigation)</li>
+                <li><input type="radio" name="eca" /> Cat.3-D2 (Animal drinking)</li>
               </ul>
             </div>
           )}
         </li>
 
-        {/* Sección de Tipo de Visualización */}
+        {/* Visualization Type Section */}
         <li className="accordion-item">
-          <button className="accordion-trigger" onClick={() => toggleSection("visualizacion")}>
-            Tipo de Visualización
+          <button className="accordion-trigger" onClick={() => toggleSection("visualization")}>
+            Visualization Type
           </button>
-          {activeSection === "visualizacion" && (
+          {activeSection === "visualization" && (
             <div className="accordion-content">
               <ul>
-                <li>Gráficos de tendencia</li>
-                <li>Tablas de datos</li>
-                <li>Mapas de calor</li>
+                <li>Trend charts</li>
+                <li>Data tables</li>
+                <li>Heat maps</li>
               </ul>
             </div>
           )}
         </li>
 
-        {/* Botón para generar informe */}
+        {/* Button to generate report */}
         <li>
-          <button className="generate-report-btn">Generar Informe</button>
+          <button className="generate-report-btn">Generate Report</button>
         </li>
       </ul>
     </div>
