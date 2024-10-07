@@ -4,9 +4,6 @@ import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 
 // Importar los archivos GeoJSON
-import limDepartamental from "../limites-peru-geojson/LIM_DEPARTAMENTAL_PERU.json";
-import limProvincial from "../limites-peru-geojson/LIM_PROVINCIAL_PERU.json";
-import limDistrital from "../limites-peru-geojson/LIM_DISTRITAL_PERU.json";
 // Importación correcta de aguaCuerpos
 import aguaCuerpos from "../limites-peru-geojson/agua_cuerpos.json";
 
