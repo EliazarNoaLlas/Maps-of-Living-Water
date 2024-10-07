@@ -1,0 +1,2002 @@
+[
+    {
+        "name": "VILCANOTA",
+        "description": "Río Vilcanota, aguas abajo km 107 Machupicchu",
+        "coordinates": [
+            -13.177676167759769,
+            -72.53150439410855
+        ],
+        "altitude": 2167,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, km 104 de la línea ferrea de Ollantaytambo a Machupicchu.\n",
+        "coordinates": [
+            -13.185673522211403,
+            -72.51110174671373
+        ],
+        "altitude": 2193,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota; aproximadamente a 2 km aguas arriba del centro poblado Machupicchu Pueblo.\n",
+        "coordinates": [
+            -13.160995322058966,
+            -72.5228390092081
+        ],
+        "altitude": 2092,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Rio Vilcanota; aproximadamente a 400 m aguas abajo del centro poblado de Machupicchu Pueblo.",
+        "coordinates": [
+            -13.156418960468134,
+            -72.53079544387526
+        ],
+        "altitude": 2083,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "VILCANOTA",
+        "description": "Río Vilcanota 350 m aprox. Aguas abajo del vertimiento de aguas residuales de Santuary Lodge- margen derecha siguiendo las rieles del tren",
+        "coordinates": [
+            -13.15822038714648,
+            -72.54150919624414
+        ],
+        "altitude": 1993,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, vía Santa Teresa a Collpani, aproximadamente a 350 m aguas abajo de la empresa Inland Energy S.A. (ex Luz del Sur).\n",
+        "coordinates": [
+            -13.139090533049142,
+            -72.58315859421393
+        ],
+        "altitude": 1532,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Sacsara",
+        "description": "Río Sacsara, altura del puente del centro poblado y de la estación hidrométrica proyectada EHA-Santa Teresa-Sacsara.\n",
+        "coordinates": [
+            -13.134603577795401,
+            -72.59704053879746
+        ],
+        "altitude": 1522,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, aproximadamente a 500 m aguas abajo del  centro poblado de Santa Teresa, camino al balneario de Cocalmayo.\n",
+        "coordinates": [
+            -13.123172075536267,
+            -72.59396200619192
+        ],
+        "altitude": 1468,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "AMPARAES",
+        "description": "Rio Amparaes, altura del centro poblado Acchahuata Alta.\n",
+        "coordinates": [
+            -13.141675533267893,
+            -77.911623300774
+        ],
+        "altitude": 4020,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "AMPARAES",
+        "description": "Rio Amparaes, aproximadamente 90 m después del segundo puente en Amparaes, antes de la unión con la quebrada Quesan.",
+        "coordinates": [
+            -13.050852960643146,
+            -77.9447435246742
+        ],
+        "altitude": 3353,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "AMPARAES",
+        "description": "Rio Amparaes, aproximadamente a 420 m aguas abajo de la PTAR del centro poblado de Amparaes.\n",
+        "coordinates": [
+            -13.042445340871073,
+            -77.94782212325175
+        ],
+        "altitude": 3310,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Trapiche",
+        "description": "Rio Trapiche, 800 m aguas arriba del centro poblado de Lares.\n",
+        "coordinates": [
+            -13.108076123934936,
+            -72.05343423823787
+        ],
+        "altitude": 3290,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Lares",
+        "description": "Rio Lares, 200 m aguas abajo de la PTAR  del centro poblado de Lares.\n",
+        "coordinates": [
+            -13.096182656393976,
+            -72.04803814126187
+        ],
+        "altitude": 3090,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Ccorimayo",
+        "description": "Rio Ccorimayo, aproximadamente a 100 m aguas arriba de la confluencia con el río Yanatile  y 300 m del puente colgante, se accede por trocha peatonal.\n",
+        "coordinates": [
+            -12.774262523246243,
+            -72.16950813751738
+        ],
+        "altitude": 1433,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "OCOBAMBA",
+        "description": "Rio Ocobamba, aproximadamente a 400 m aguas abajo del centro poblado Kquelccaybamba.\n",
+        "coordinates": [
+            -12.865699447204928,
+            -72.44443151846947
+        ],
+        "altitude": 1424,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "YANATILE",
+        "description": "Rio Yanatile, aguas abajo del centro poblado Quebrada Honda.\n",
+        "coordinates": [
+            -12.682466983901165,
+            -72.28777406185249
+        ],
+        "altitude": 1018,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "YANATILE",
+        "description": "Río Yanatile, aguas abajo del vertimiento de aguas residuales del centro poblado de Chancamayo.",
+        "coordinates": [
+            -12.625791992324205,
+            -72.38667263724734
+        ],
+        "altitude": 895,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "YANATILE",
+        "description": "Rio Yanatile,  altura del centro poblado Quesquento y aproximadamente a 200 m aguas arriba del puente principal (margen izquierda).",
+        "coordinates": [
+            -12.626572922096718,
+            -72.40930432140674
+        ],
+        "altitude": 886,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "YANATILE",
+        "description": "Río Yanatile, 200m aguas arriba del puente carrozable del Centro poblado de Quellouno, margen izquierda",
+        "coordinates": [
+            -12.637415035421,
+            -72.55570978825604
+        ],
+        "altitude": 748,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "YANATILE",
+        "description": "Río Yanatile; aproximadamente a 500 m aguas abajo del puente carrosable y estación hidrométrica proyectada EHA-Quellouno (margen derecha).",
+        "coordinates": [
+            -12.638269582448176,
+            -72.56219743524439
+        ],
+        "altitude": 767,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Lucuma",
+        "description": "Río Lucuma (nombre local: Lucumayo); aguas abajo del último vertimiento del C. P. de Huyro y aguas arriba del puente Sicre.",
+        "coordinates": [
+            -13.012241470900383,
+            -72.55795739673054
+        ],
+        "altitude": 1454,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "VILCABAMBA",
+        "description": "Río Vilcabamba, altura del puente Chuquichaka y estación hidrométrica proyectada EHMA Chuquichaka.",
+        "coordinates": [
+            -13.012280087245598,
+            -72.65415895919583
+        ],
+        "altitude": 1168,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "VILCANOTA",
+        "description": "Río Vilcanota; aproximadamente a 600 m aguas abajo de la PTAR del distrito de Maranura.\n",
+        "coordinates": [
+            -12.955568361962737,
+            -72.67199317393738
+        ],
+        "altitude": 1110,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Chuyapi",
+        "description": "Río Chuyapi; aguas arriba del puente Santa Rosa en el sector de Tunkimayo alto.\n",
+        "coordinates": [
+            -12.904453971482521,
+            -72.80059968754874
+        ],
+        "altitude": 1793,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Chuyapi",
+        "description": "Río Chuyapi; aproximadamente a 300 m aguas arriba del puente carrosable antes de la confluencia con la quebrada Poromate en el sector de Potrero.\n",
+        "coordinates": [
+            -12.906300581568274,
+            -72.78705120788572
+        ],
+        "altitude": 1672,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Chuyapi",
+        "description": "Río Chuyapi; aproximadamente a 100 m  aguas arriba de la confluencia con el rio Vilcanota.\n",
+        "coordinates": [
+            -12.852771289119389,
+            -72.70030535822076
+        ],
+        "altitude": 993,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "VILCANOTA",
+        "description": "Río Vilcanota, a 100 m aguas abajo de la confluencia con el río Sambaray - acceso por el balneario de Sambaray.\n",
+        "coordinates": [
+            -12.847962941920319,
+            -72.70327767534958
+        ],
+        "altitude": 984,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "VILCANOTA",
+        "description": "Rio Vilcanota, a 1 km aguas abajo del distrito de Echarati - sector Pampa Echarati (margen derecha).",
+        "coordinates": [
+            -12.756515589683806,
+            -72.57579836239384
+        ],
+        "altitude": 931,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "VILCANOTA",
+        "description": "Río Vilcanota, aproximadamente 2 km aguas arriba de la confluencia con el río Yanatile - sector Chahuares (margen izquierda).\n",
+        "coordinates": [
+            -12.650409938715459,
+            -72.55394832036164
+        ],
+        "altitude": 756,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Urubamba",
+        "description": "Río Urubamba, aproximadamente a 1,5 km aguas abajo de la confluencia entre los ríos Vilcanota y Yanatile (margen izquierda).\n",
+        "coordinates": [
+            -12.654165560362877,
+            -72.5842773104938
+        ],
+        "altitude": 748,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba; altura centro poblado Palma Real y aproximadamente 100 m aguas abajo del puente peatonal.\n",
+        "coordinates": [
+            -12.62231852016755,
+            -72.69500385388002
+        ],
+        "altitude": 704,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Cirialo",
+        "description": "Río Cirialo; aproximadamente a 1,5 km aguas arriba de la confluencia con el río Urubamba y 100 m aguas abajo del puente carrosable.\n",
+        "coordinates": [
+            -12.643335015867997,
+            -72.93265390086755
+        ],
+        "altitude": 763,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba; altura del centro poblado Kiteni y 200 m aguas abajo de la confluencia con el río Kiteni.\n",
+        "coordinates": [
+            -12.647184024061806,
+            -73.05492035872321
+        ],
+        "altitude": 590,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Cushireni",
+        "description": "Río Cushireni; altura del puente Cushireni.\n",
+        "coordinates": [
+            -12.650897987303502,
+            -73.05481859962367
+        ],
+        "altitude": 602,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Cumpirusiato",
+        "description": "Río Cumpirusiato, altura del centro poblado Cumpirusiato, cerca del puente.\n",
+        "coordinates": [
+            -12.617377257408108,
+            -73.10537555612869
+        ],
+        "altitude": 600,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Rio Urubamba; aproximadamente a 850 m aguas abajo  del puente del centro poblado de Ivochote.",
+        "coordinates": [
+            -12.459058496547627,
+            -72.95897424669344
+        ],
+        "altitude": 510,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Cochahuayco",
+        "description": "Rio Cochahuayco, afluente del río Mapacho, cerca al centro poblado Mollec\n",
+        "coordinates": [
+            -12.837079095717106,
+            -77.99398020657407
+        ],
+        "altitude": 2717,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mapacho",
+        "description": "Río Mapacho, altura del puente peatonal Velasco C.C. Juyway Medozayoc.\n",
+        "coordinates": [
+            -12.768650562569729,
+            -77.99519654085115
+        ],
+        "altitude": 1679,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Yavero",
+        "description": "Rio Yavero, aproximadamente a 100 m aguas arriba del puente del centro poblado de San Martin y estación hidrométrica proyectada EHA- San Martín (margen izquierda).\n",
+        "coordinates": [
+            -12.436672285334277,
+            -72.40436199519587
+        ],
+        "altitude": 854,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Yavero",
+        "description": "Río Yavero antes del centro poblado de Estrella",
+        "coordinates": [
+            -12.40449743056669,
+            -72.51895466420166
+        ],
+        "altitude": 722,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Yavero",
+        "description": "Rio Yavero, aproximadamente a 250 m aguas abajo del centro poblado de Estrella.\n",
+        "coordinates": [
+            -12.394344853167182,
+            -72.56217977242379
+        ],
+        "altitude": 736,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Yavero",
+        "description": "Río Yavero, aproximadamente a 300 m aguas arriba de la confluencia con el río Urubamba.\n",
+        "coordinates": [
+            -12.354881446156803,
+            -72.86964998828925
+        ],
+        "altitude": 495,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Yoyato",
+        "description": "RíoYoyato, aproximadamente a 250 m aguas arriba de la confluencia con el río Urubamba.\n",
+        "coordinates": [
+            -12.251636136869314,
+            -72.82456535587956
+        ],
+        "altitude": 441,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Yotsiba",
+        "description": "Quebrada Yotsiba; aguas abajo del punto de control N°8 B; punto de contingencia declarado en su EIA de TGP, se accede vía aérea.\n",
+        "coordinates": [
+            -12.197280920272519,
+            -73.0255247358717
+        ],
+        "altitude": 682,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Rio Urubamba;  paso del Pongo de Manique altura de las cataratas Velo de Novia.",
+        "coordinates": [
+            -12.22891827832498,
+            -72.82023090596176
+        ],
+        "altitude": 565,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Ticumpinia",
+        "description": "Río Ticumpinia, aproximadamente 100 m aguas arriba de la confluencia con el río Urubamba.\n",
+        "coordinates": [
+            -12.179453151053556,
+            -72.8254215045618
+        ],
+        "altitude": 435,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba; aproximadamente a 400 m aguas arriba de la confluencia con la  quebrada Kimariato.\n",
+        "coordinates": [
+            -11.92482131282688,
+            -72.93653236379589
+        ],
+        "altitude": 380,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Kimariato ",
+        "description": "Quebrada Kimariato; aproximadamente a 80 m aguas arriba de la confluencia con el río Urubamba.\n",
+        "coordinates": [
+            -11.920763526360172,
+            -72.93657221420256
+        ],
+        "altitude": 374,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba; aproximadamente 500 m aguas abajo de la confluencia con la quebrada Kimariato.",
+        "coordinates": [
+            -11.916359384050997,
+            -72.93991871057234
+        ],
+        "altitude": 388,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Rio Urubamba; aproximadamente a 200 m aguas arriba del campamento de planta de Gas Camisea, altura del inicio del aeródromo.",
+        "coordinates": [
+            -11.865593644166315,
+            -72.94007132273718
+        ],
+        "altitude": 383,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Rio Urubamba; aproximadamente a 1,5 km aguas abajo del campamento de planta de Gas Camisea.",
+        "coordinates": [
+            -11.822216983617565,
+            -72.93719440274266
+        ],
+        "altitude": 393,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba; aproximadamente a 500 m aguas arriba de la confluencia con el río Camisea.\n",
+        "coordinates": [
+            -11.717981146888208,
+            -72.94862858070734
+        ],
+        "altitude": 349,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "CAMISEA",
+        "description": "Río Camisea; aproximadamente a 900 m aguas arriba de la confluencia con el río Urubamba.\n",
+        "coordinates": [
+            -11.717810753896918,
+            -72.93875235441624
+        ],
+        "altitude": 347,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba, aproximadamente a 300 m aguas abajo de la confluencia con el río Camisea.\n",
+        "coordinates": [
+            -11.709124227697103,
+            -72.94618107227069
+        ],
+        "altitude": 349,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "PAROTORI",
+        "description": "Rio Parotori; aguas abajo de la Comunidad Nativa de Camana, se accede vía aérea o fluvial.\n",
+        "coordinates": [
+            -11.983914018002226,
+            -73.13811446950353
+        ],
+        "altitude": 485,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "PICHA",
+        "description": "Río Picha; aproximadamente a 700 m aguas arriba de la confluencia con el río Urubamba.\n",
+        "coordinates": [
+            -11.588859202234579,
+            -73.12968178579096
+        ],
+        "altitude": 327,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Rio Urubamba; curva del rio antes de campamento de planta de Gas Repsol en Nuevo Mundo.",
+        "coordinates": [
+            -11.548443885851661,
+            -73.15208785341619
+        ],
+        "altitude": 336,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba; aproximadamente a 2 km aguas abajo del campamento de la planta de gas de Nuevo Mundo.\n",
+        "coordinates": [
+            -11.546064540216022,
+            -73.13622675811921
+        ],
+        "altitude": 369,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "HUITIRICAYA",
+        "description": "Río Huitiricaya; altura del centro poblado Porotabamgo y aproximadamente 200 m aguas arriba de su confluencia con el río Urubamba.\n",
+        "coordinates": [
+            -11.49319893662522,
+            -73.1384263956734
+        ],
+        "altitude": 306,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "SENSA",
+        "description": "Río Sensa; aproximadamente a 200 m aguas arriba de la confluencia con el río Urubamba.",
+        "coordinates": [
+            -11.384420388725783,
+            -73.00613618576786
+        ],
+        "altitude": 332,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba; aproximadamente a 1 km aguas arriba de la confluencia con el río Mishahua.\n",
+        "coordinates": [
+            -11.213098936740789,
+            -72.98845080522378
+        ],
+        "altitude": 280,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mishahua",
+        "description": "Río Mishahua; aproximadamente a 200 m aguas arriba de la confluencia con el río Vinuya.\n",
+        "coordinates": [
+            -11.420328741765443,
+            -72.5053093054379
+        ],
+        "altitude": 339,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Vinuya",
+        "description": "Río Vinuya; aproximadamente a 200 m aguas arriba de la confluencia con el río Mishahua.\n",
+        "coordinates": [
+            -11.418798692828046,
+            -72.50708120480675
+        ],
+        "altitude": 338,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mishahua",
+        "description": "Río Mishahua; aproximadamente a 300 m aguas abajo de la confluencia con el río Vinuya.\n",
+        "coordinates": [
+            -11.423537073076194,
+            -72.50963182994839
+        ],
+        "altitude": 343,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Paco",
+        "description": "Río Paco; aproximadamente a 70 m aguas arriba de la confluencia con el río Misahahua.\n",
+        "coordinates": [
+            -11.44009770370892,
+            -72.52537007171735
+        ],
+        "altitude": 337,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mishahua",
+        "description": "Río Mishahua; aproximadamente a 200 m aguas arriba de la confluencia con el río Serjali, margen derecha.\n",
+        "coordinates": [
+            -11.437723711847168,
+            -72.57533022910656
+        ],
+        "altitude": 327,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Serjali",
+        "description": "Río Serjali; aproximadamente a 7 km aguas arriba de la confluencia con el río Mishahua.\n",
+        "coordinates": [
+            -11.481246855362265,
+            -72.59116564417143
+        ],
+        "altitude": 339,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Serjali",
+        "description": "Río Serjali; aproximadamente a 200 m aguas arriba de la confluencia con el río Mishahua.\n",
+        "coordinates": [
+            -11.440672314850689,
+            -72.57894169457744
+        ],
+        "altitude": 318,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mishahua",
+        "description": "Río Mishahua; aproximadamente a 300 m aguas abajo de la confluencia con el río Serjali, puerto Serjali.\n",
+        "coordinates": [
+            -11.438144044000286,
+            -72.58354321819017
+        ],
+        "altitude": 322,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mishahua",
+        "description": "Río Mishahua; aproximadamente a 500 m aguas abajo del centro poblado de Santa Rosa de Serjali.",
+        "coordinates": [
+            -11.43044883768409,
+            -72.5796147960233
+        ],
+        "altitude": 319,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mishahua",
+        "description": "Río Mishahua; en el puerto de Boca Tigre margen derecha.\n",
+        "coordinates": [
+            -11.357433066615792,
+            -72.71394683260169
+        ],
+        "altitude": 308,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mishahua",
+        "description": "Río Mishahua, a 10.5 km aproximadamente antes de la confluencia con río Dorado, sector Rija.",
+        "coordinates": [
+            -11.377435447644093,
+            -72.79850962157983
+        ],
+        "altitude": 310,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mishahua",
+        "description": "Río Mishahua, a 1300 m aproximadamente aguas arriba de la confluencia con río Dorado, sector Rija.",
+        "coordinates": [
+            -11.384500215915068,
+            -72.84451062170986
+        ],
+        "altitude": 310,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Dorado",
+        "description": "Río Dorado; aproximadamente a 250 m aguas arriba de la confluencia con el río Mishahua.\n",
+        "coordinates": [
+            -11.374833046651,
+            -72.83143026488538
+        ],
+        "altitude": 310,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mishahua",
+        "description": "Río Mishahua; aproximadamente a 500 m aguas abajo de la confluencia con el río Dorado.\n",
+        "coordinates": [
+            -11.372399173574278,
+            -72.83597345301128
+        ],
+        "altitude": 310,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mishahua",
+        "description": "Río Mishahua, aproximadamente 500 m aguas abajo de la quebrada no nomida (margen derecha).\n",
+        "coordinates": [
+            -11.345209640991746,
+            -72.91577776701602
+        ],
+        "altitude": 299,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mishahua",
+        "description": "Río Mishahua; aproximadamente 1 km aguas arriba de la confluencia con el río Urubamba.\n",
+        "coordinates": [
+            -11.214271674625843,
+            -72.96943647387909
+        ],
+        "altitude": 282,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba; aproximadamente 2 km aguas abajo de la confluencia con el río Mishahua.\n",
+        "coordinates": [
+            -11.186258870499298,
+            -72.98246620748533
+        ],
+        "altitude": 278,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba; aproximadamente a 1 km aguas arriba de la confluencia con el río Sepahua.\n",
+        "coordinates": [
+            -11.156595140179558,
+            -73.04679207795942
+        ],
+        "altitude": 278,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Sepahua",
+        "description": "Río Sepahua; aproximadamente a 2,5 km aguas arriba de la confluencia con el río Urubamba.\n",
+        "coordinates": [
+            -11.14361432591293,
+            -73.02732734050748
+        ],
+        "altitude": 276,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Sepahua",
+        "description": "Río Sepahua; a 200 m aguas arriba de la desembocadura en el río Urubamba.\n",
+        "coordinates": [
+            -11.149421807298836,
+            -73.04735259431156
+        ],
+        "altitude": 286,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Huayhuasi",
+        "description": "Quebrada Huayhuasi, altura de la industria maderera.",
+        "coordinates": [
+            -11.120745322494525,
+            -73.02449761249072
+        ],
+        "altitude": 300,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Huayhuasi",
+        "description": "Quebrada Huayhuasi, desembocadura del rio. \n",
+        "coordinates": [
+            -11.126167009921735,
+            -73.02975133611605
+        ],
+        "altitude": 300,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba; aproximadamente 1,5 km aguas abajo de la confluencia con el río Sepahua.\n",
+        "coordinates": [
+            -11.136803211430424,
+            -73.05569292836394
+        ],
+        "altitude": 276,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba, aproximadamente 2 km aguas arriba de la desembocadura del río Sepa.\n",
+        "coordinates": [
+            -10.797869217581974,
+            -73.27806797478488
+        ],
+        "altitude": 244,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Sepa",
+        "description": "Río Sepa, aproximadamente 200 m aguas arriba de la desembocadura en el río Urubamba.\n",
+        "coordinates": [
+            -10.810397665008866,
+            -73.29574547482768
+        ],
+        "altitude": 241,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba; aproximadamente 1,5 km aguas abajo de la desembocadura del río Sepa.\n",
+        "coordinates": [
+            -10.802027475532476,
+            -73.30913383714598
+        ],
+        "altitude": 233,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba; aproximadamente a 500 m aguas arriba de la desembocadura del río Inuya.\n",
+        "coordinates": [
+            -10.679950938000495,
+            -73.46256325288599
+        ],
+        "altitude": 238,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Mapuya",
+        "description": "Río Mapuya; aproximadamente a 500 m aguas arriba de a confluencia con el río Inuya.\n",
+        "coordinates": [
+            -10.563921036360135,
+            -73.11023409980459
+        ],
+        "altitude": 234,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Inuya",
+        "description": "Río Inuya; aproximadamente a 1 km aguas arriba de la confluencia con el río Mapuya.\n",
+        "coordinates": [
+            -10.573673647164256,
+            -73.11608563192554
+        ],
+        "altitude": 240,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Inuya",
+        "description": "Río Inuya; aproximadamente a 1km aguas abajo de la confluencia con el río Mapuya.\n",
+        "coordinates": [
+            -10.558909975484708,
+            -73.12183987904628
+        ],
+        "altitude": 244,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Inuya",
+        "description": "Río Inuya; aproximadamente a 800 m  aguas arriba de la confluencia con el río Urubamba.\n",
+        "coordinates": [
+            -10.675920524842589,
+            -73.45928365364107
+        ],
+        "altitude": 229,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba, aproximadamente a 1 km aguas abajo de la desembocadura del río Inuya.\n",
+        "coordinates": [
+            -10.671023627128363,
+            -73.48030470459587
+        ],
+        "altitude": 239,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "URUBAMBA",
+        "description": "Río Urubamba, aproximadamente 2 km aguas arriba de la confluencia con el río Tambo.\n",
+        "coordinates": [
+            -10.703682764135102,
+            -73.73608966484278
+        ],
+        "altitude": 219,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, aproximadamente a 650 m antes de la confluencia con el río Yanatile (margen izquierda).",
+        "coordinates": [
+            -12.65164276519525,
+            -72.56720485437118
+        ],
+        "altitude": 752,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "VILCANOTA",
+        "description": "Río Vilcanota, aguas abajo del puente Urcos",
+        "coordinates": [
+            -13.682273103259687,
+            -77.62235078266954
+        ],
+        "altitude": 3204,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Huaro",
+        "description": "Quebrada Huaro, altura de la comunidad campesina Urpay.",
+        "coordinates": [
+            -13.707948828447606,
+            -77.6618950507398
+        ],
+        "altitude": 3535,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Quebrada Huaro",
+        "description": "Quebrada Huaro, 400 m aguas abajo del vertimiento del C.P. Huaro",
+        "coordinates": [
+            -13.681614493888304,
+            -77.64773148430346
+        ],
+        "altitude": 3141,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, 300 m aguas abajo del vertimiento de la PTAR de Urcos.",
+        "coordinates": [
+            -13.66596334646813,
+            -77.63633227018616
+        ],
+        "altitude": 3122,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, aproximadamente 50 m aguas abajo del puente Piñipampa (margen izquierda).",
+        "coordinates": [
+            -13.65083761911418,
+            -77.6838195781954
+        ],
+        "altitude": 3080,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Río Jajahuana",
+        "description": "Río Jajahuana, aguas abajo del centro poblado San Rafael - Ancahuasi, acceso por trocha carrozable Ancahuasi-San Rafael",
+        "coordinates": [
+            -13.461646947713549,
+            -72.31839671341818
+        ],
+        "altitude": 3490,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Jajahuana",
+        "description": "Río Jajahuana,  altura del puente hacia Curamba.",
+        "coordinates": [
+            -13.487916229680659,
+            -72.25822436988875
+        ],
+        "altitude": 3350,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Río Jajahuana",
+        "description": "Río Jajahuana,  altura del centro poblado San Rafael - Ancahuasi, cruce a 150 m de la autopista.",
+        "coordinates": [
+            -13.490910746337713,
+            -72.24052296825535
+        ],
+        "altitude": 3339,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "HATUNMAYO",
+        "description": "Río Hatunmayu, altura de la comunidad campesina Markjo y a 2km  aprox. aguas abajo de la confluencia con el río Jajahuana.",
+        "coordinates": [
+            -13.456153074200769,
+            -72.21116742672308
+        ],
+        "altitude": 3349,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "HATUNMAYO",
+        "description": "Río Hatunmayu, altura del comunidad campesina Chacacurqui y 370 m aguas abajo del vertimiento del camal municipal de Anta.",
+        "coordinates": [
+            -13.463336289384463,
+            -72.15576561006937
+        ],
+        "altitude": 3341,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "HATUNMAYO",
+        "description": "Río Hatunmayu, C.P. Izcuchaca, altura Urb. El Bosque.",
+        "coordinates": [
+            -13.461413459705293,
+            -72.13439632999489
+        ],
+        "altitude": 3415,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "CACHIMAYO",
+        "description": "Río Cachimayo, altura del sector Pacpapata- Bellavista y de Industrias Cachimayo, 450 m de la autopista.",
+        "coordinates": [
+            -13.47667072378765,
+            -72.08669452855308
+        ],
+        "altitude": 3457,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Río Corimarca",
+        "description": "Río Corimarca; 800 m aguas abajo de la salida de la laguna de Piuray.",
+        "coordinates": [
+            -13.426013919502195,
+            -72.04895167486923
+        ],
+        "altitude": 3696,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Río Querahuayllo",
+        "description": "Río Querahuayllo, a 40 m aguas arriba del parque Adventure Park en el distrito Poroy.",
+        "coordinates": [
+            -13.507280858837252,
+            -72.0314058875892
+        ],
+        "altitude": 3609,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Jaquira",
+        "description": "Quebrada Jaquira, aproximadamente a 400 metros aguas abajo de las captaciones de agua, cerca al botadero de Jaquira.",
+        "coordinates": [
+            -13.557097090287185,
+            -72.01614691918837
+        ],
+        "altitude": 3853,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Jaquira",
+        "description": "Quebrada Jaquira, aproximadamente a 500 m aguas arriba de la confluencia con el río Cachona.",
+        "coordinates": [
+            -13.558518623126984,
+            -72.0119196293834
+        ],
+        "altitude": 3754,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Jaquira",
+        "description": "Quebrada Jaquira, aproximadamente a 200 m aguas arriba de la confluencia con el río Huancaro.",
+        "coordinates": [
+            -13.552783643491157,
+            -77.9941196862533
+        ],
+        "altitude": 3460,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Quebrada Chocco",
+        "description": "Quebrada Chocco; aproximadamente a 1,5 km aguas arriba del centro poblado Chocco.",
+        "coordinates": [
+            -13.571514250872827,
+            -77.97072993512369
+        ],
+        "altitude": 3526,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Río Huancaro",
+        "description": "Río Huancaro, aproximadamente a 100 m aguas abajo de la confluencia de los ríos Chocco y Cachona.",
+        "coordinates": [
+            -13.541391073346977,
+            -77.98238319156167
+        ],
+        "altitude": 3380,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Quebrada Saphy",
+        "description": "Quebrada Saphy, aproximadamente a 500 m aguas arriba del campamento municipal de la M.P. Cusco.",
+        "coordinates": [
+            -13.506574030130855,
+            -77.98929630684603
+        ],
+        "altitude": 3466,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Quebrada Saphy",
+        "description": "Quebrada Saphy, altura del campamento de la municipalidad distrital de Wanchaq.",
+        "coordinates": [
+            -13.533793806584438,
+            -77.96736267845807
+        ],
+        "altitude": 3344,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Río Tullumayo",
+        "description": "Río Tullumayo; altura del ingreso al centro arqueológico de Sacsayhuaman.",
+        "coordinates": [
+            -13.509694518764814,
+            -77.97981030624965
+        ],
+        "altitude": 3537,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "HUATANAY",
+        "description": "Río Huatanay, puente Simón Herrera, a 150 m aguas abajo del mercado Molino 2.",
+        "coordinates": [
+            -13.53696342976112,
+            -77.9559650442388
+        ],
+        "altitude": 3325,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Quebrada Cachimayo",
+        "description": "Quebrada Cachimayo, 50 m antes de la confluencia con  el río Huatanay, altura Urb. Manantiales.",
+        "coordinates": [
+            -13.535004623858146,
+            -77.91975578904528
+        ],
+        "altitude": 3279,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "HUATANAY",
+        "description": "Río Huatanay, aproximadamente 20 m aguas abajo del puente Túpac Amaru. ",
+        "coordinates": [
+            -13.537320532174396,
+            -77.90781124542602
+        ],
+        "altitude": 3252,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "HUATANAY",
+        "description": "Río Huatanay, antes del camal Kayra y aproximadamente 100 m aguas arriba del puente Kayra.",
+        "coordinates": [
+            -13.55367456382089,
+            -77.87450737793026
+        ],
+        "altitude": 3221,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "HUATANAY",
+        "description": "Río Huatanay, aproximadamente 400 metros aguas arriba de la PTAR SEDACUSCO.",
+        "coordinates": [
+            -13.554134777732997,
+            -77.86904750567209
+        ],
+        "altitude": 3203,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "HUATANAY",
+        "description": "Río Huatanay, altura del puente Angostura.",
+        "coordinates": [
+            -13.553460645149428,
+            -77.86246613925596
+        ],
+        "altitude": 3191,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "HUATANAY",
+        "description": "Río Huatanay, aproximadamente 200 m aguas abajo de la PTAR Oropesa.",
+        "coordinates": [
+            -13.60560461685949,
+            -77.75188935147135
+        ],
+        "altitude": 3139,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "HUATANAY",
+        "description": "Río Huatanay, altura del centro poblado de Huacarpay.",
+        "coordinates": [
+            -13.60765887224364,
+            -77.72940712438353
+        ],
+        "altitude": 3078,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Río Lucre",
+        "description": "Río Lucre, después de la confluencia de las quebradas Cusana y Yutujasamayo.",
+        "coordinates": [
+            -13.678428553974657,
+            -77.77612356453383
+        ],
+        "altitude": 3654,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Lucre",
+        "description": "Río Lucre, después de la confluencia de las quebradas Colcaque y Huanllaran.",
+        "coordinates": [
+            -13.653764117582117,
+            -77.76363291591997
+        ],
+        "altitude": 3418,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Lucre",
+        "description": "Río Lucre, altura del puente carrozable Lucre, a la salida del centro poblado de Lucre.",
+        "coordinates": [
+            -13.631792741683382,
+            -77.73292602129192
+        ],
+        "altitude": 3101,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Huacarpay",
+        "description": "Río Huacarpay, desembocadura de la laguna de Huacarpay, altura del puente calzada.",
+        "coordinates": [
+            -13.613078968081158,
+            -77.72526717634356
+        ],
+        "altitude": 3108,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "HUATANAY",
+        "description": "Río Huatanay, 50 m aguas arriba de la confluencia con el río Vilcanota.",
+        "coordinates": [
+            -13.58143332504601,
+            -77.71142314555173
+        ],
+        "altitude": 3037,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, aproximadamente a 120 m aguas abajo del puente de Huambutio.",
+        "coordinates": [
+            -13.579742073051934,
+            -77.71410031207367
+        ],
+        "altitude": 3080,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, sector Ccanoccata aguas arriba C. P. Pisac.",
+        "coordinates": [
+            -13.438065231791565,
+            -77.83368386429636
+        ],
+        "altitude": 2778,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, 100 m aguas abajo del vertimiento del poblado de Pisac.",
+        "coordinates": [
+            -13.41955839709006,
+            -77.8719156726873
+        ],
+        "altitude": 2974,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, 200 m aguas arriba del poblado de Calca, sector Ccaytupampa.",
+        "coordinates": [
+            -13.338229429413222,
+            -77.95618593732759
+        ],
+        "altitude": 2983,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Quebrada Sondor",
+        "description": "Quebrada Sondor, 200 m aguas abajo de la confluencia con la Quebrada Catococha.",
+        "coordinates": [
+            -13.237597032443887,
+            -77.89406197095558
+        ],
+        "altitude": 3882,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Quebrada Huilcapuncocasa",
+        "description": "Quebrada Huilcapuncocasa, altura de la comunidad campesina Totora.",
+        "coordinates": [
+            -13.243594978948439,
+            -77.90830400515826
+        ],
+        "altitude": 3718,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Río Jochoc",
+        "description": "Río Jochoc, altura del vivero municipal de Calca y antes de la confluencia con el río Vilcanota.",
+        "coordinates": [
+            -13.325668377747142,
+            -77.9591135739745
+        ],
+        "altitude": 2919,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, aproximadamente a 20 m aguas abajo del puente Carolina (margen derecha).",
+        "coordinates": [
+            -13.328249802208285,
+            -77.97930582153393
+        ],
+        "altitude": 2910,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, 300 m aguas abajo del C. P. Cotohuincho.",
+        "coordinates": [
+            -13.303650803433023,
+            -72.1379780157904
+        ],
+        "altitude": 2981,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, altura de la estación férrea de Pachar.",
+        "coordinates": [
+            -13.271815610071176,
+            -72.21984318776573
+        ],
+        "altitude": 2836,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Huarocondo",
+        "description": "Río Huarocondo, altura del estadio de Chimpahuaylla de Huarocondo.",
+        "coordinates": [
+            -13.423776013953113,
+            -72.20677121964138
+        ],
+        "altitude": 3320,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Río Huarocondo",
+        "description": "Río Huarocondo, 100 m aguas arriba de la confluencia con el río Vilcanota.",
+        "coordinates": [
+            -13.273956621414168,
+            -72.21903494605529
+        ],
+        "altitude": 2822,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, altura de la estación ferroviaria Ollantaytambo y 300 m aguas abajo de la confluencia con el río Patacancha.",
+        "coordinates": [
+            -13.261346902604805,
+            -72.2733837651035
+        ],
+        "altitude": 2849,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Yanacancha",
+        "description": "Río Yanacancha, a la altura del centro poblado de Pallcapampa y 150 m aguas arriba de la confluencia con el río Singrena.",
+        "coordinates": [
+            -13.62097704073226,
+            -77.19548881864004
+        ],
+        "altitude": 4168,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Tinquimayo",
+        "description": "Rio Tinquimayo, altura del centro poblado de Mallma y aguas abajo de la unión con la quebrada Ajopampa. \n",
+        "coordinates": [
+            -13.606440421855106,
+            -77.2094617788545
+        ],
+        "altitude": 4123,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Ichuni",
+        "description": "Quebrada Ichuni, a 150 m de la labor minera.",
+        "coordinates": [
+            -13.603661921112643,
+            -77.33081315347961
+        ],
+        "altitude": 4364,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Sorapata",
+        "description": "Quebrada Sorapata, a 150 m aguas debajo de las labores mineras. ",
+        "coordinates": [
+            -13.61051948239868,
+            -77.31925903853558
+        ],
+        "altitude": 4367,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Checaspampa",
+        "description": "Quebrada Checaspampa; en el centro poblado de Checaspamapa.",
+        "coordinates": [
+            -13.655586267033216,
+            -77.31086582496354
+        ],
+        "altitude": 3865,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mapacho",
+        "description": "Río Mapacho, a 200 m. aguas abajo del centro poblado de Tinke, margen izquierda.",
+        "coordinates": [
+            -13.664248790208855,
+            -77.33141684119045
+        ],
+        "altitude": 3744,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Lauramarca",
+        "description": "Río Lauramarca, 500 m aguas abajo del poblado de Lauramarca y 1,2 km aguas arriba de la confluencia con el rio Mapacho.",
+        "coordinates": [
+            -13.675062571565558,
+            -77.35072459604478
+        ],
+        "altitude": 3754,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mapacho",
+        "description": "Río Mapacho, 500 m aguas abajo del vertimiento del centro poblado de Ocongate, margen izquierda.",
+        "coordinates": [
+            -13.616659622765738,
+            -77.40062174560559
+        ],
+        "altitude": 3514,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Tayancani",
+        "description": "Quebrada Tayancani, a 150 m aguas debajo de la labor minera.",
+        "coordinates": [
+            -13.607342381596727,
+            -77.36211855845447
+        ],
+        "altitude": 3925,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mapacho",
+        "description": "Río Mapacho, 300 m aguas abajo del vertimiento del centro poblado de Ccarhuayo, margen derecha.",
+        "coordinates": [
+            -13.586297852174912,
+            -77.40286500602217
+        ],
+        "altitude": 3430,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "CCATCCA",
+        "description": "Río Ccatccamayo, 200 mts antes de la confluencia con el río Mapacho en la comunidad de Markjupata Ccatca.",
+        "coordinates": [
+            -13.59476487043104,
+            -77.57190961211813
+        ],
+        "altitude": 3705,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Ccatccamayo",
+        "description": "Río Ccatccamayo, 200 m aguas arriba del centro poblado Ccatcca.",
+        "coordinates": [
+            -13.605269422303643,
+            -77.56599182649785
+        ],
+        "altitude": 3661,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Ccatccamayo",
+        "description": "Río Ccatccamayo, a 200 m aguas abajo del centro poblado de Ccatcca.",
+        "coordinates": [
+            -13.610908521608827,
+            -77.55792455368933
+        ],
+        "altitude": 3673,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Ccatccamayo",
+        "description": "Río Ccatccamayo, a la altura del centro poblado de Pampacamara.",
+        "coordinates": [
+            -13.637466841496577,
+            -77.51569874001343
+        ],
+        "altitude": 3609,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Quisuarani",
+        "description": "Quebrada Quisuarani, 200 m aguas abajo de la labor minera de la comunidad de Andayaje.",
+        "coordinates": [
+            -13.612644863752553,
+            -77.44086549711771
+        ],
+        "altitude": 4083,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Ccatccamayo",
+        "description": "Río Ccatccamayo, a 500 m aguas arriba de la unión al río Mapacho, altura del centro poblado de Markjupata.",
+        "coordinates": [
+            -13.566650544988246,
+            -77.44152132128357
+        ],
+        "altitude": 3347,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Jachacalla",
+        "description": "Río Jachacalla, altura del puente Jachacalla cerca  la comunidad de Jachacalla.",
+        "coordinates": [
+            -13.539708486715675,
+            -77.37014859123086
+        ],
+        "altitude": 3754,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Jachacalla",
+        "description": "Río Jachacalla, a 200 m aguas arriba de la confluencia del río Mapacho.",
+        "coordinates": [
+            -13.532847056761387,
+            -77.45205399561374
+        ],
+        "altitude": 3392,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Cumbrera",
+        "description": "Quebrada Cumbrera, a 1 km aguas abajo de la Minera la Cumbrera.",
+        "coordinates": [
+            -13.466840968901103,
+            -77.4115912429442
+        ],
+        "altitude": 4062,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Huisacay",
+        "description": "Quebrada Huisacay, entre la C.C. de Payaccana y Humana.",
+        "coordinates": [
+            -13.464041266242338,
+            -77.45346527495184
+        ],
+        "altitude": 3652,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Carpapampa",
+        "description": "Quebrada Carpapampa, 200 m aguas abajo de la labor minera.",
+        "coordinates": [
+            -13.399697264751177,
+            -77.44663690789902
+        ],
+        "altitude": 4123,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Pichigua",
+        "description": "Río Pichigua, a 500 m aguas arriba de la confluencia con el rio Mapacho, en el sector de Huatocto.",
+        "coordinates": [
+            -13.41382167394305,
+            -77.54225647786203
+        ],
+        "altitude": 3089,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Corac",
+        "description": "Quebrada Corac, 300 m aguas abajo de la minera Munay Warmi.",
+        "coordinates": [
+            -13.417097157154572,
+            -77.38647741398978
+        ],
+        "altitude": 4235,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Pumachaca",
+        "description": "Quebrada Pumachaca, altura del sector de Chumchubamba de la comunidad de Kallacancha.",
+        "coordinates": [
+            -13.410017650502821,
+            -77.38793963853216
+        ],
+        "altitude": 4089,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Vizcachani",
+        "description": "Quebrada Vizcachani, 500 m aguas debajo de la labor minera. ",
+        "coordinates": [
+            -13.385728690140615,
+            -77.45040857222007
+        ],
+        "altitude": 3766,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Pumachaca",
+        "description": "Quebrada Pumachaca, 800 m aguas arriba de la confluencia con el rio Mapacho, margen derecha.",
+        "coordinates": [
+            -13.378767318225774,
+            -77.54681570278505
+        ],
+        "altitude": 3120,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mapacho",
+        "description": "Río Mapacho, 200 m aguas arriba del centro poblado de Paucartambo, margen derecha.",
+        "coordinates": [
+            -13.32488522463877,
+            -77.58972056158734
+        ],
+        "altitude": 2898,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Quencomayo",
+        "description": "Quebrada Quencomayo, 50 m aguas arriba de la confluencia con el rio Mapacho, margen derecha.",
+        "coordinates": [
+            -13.31628369284131,
+            -77.5977746130668
+        ],
+        "altitude": 3000,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mapacho",
+        "description": "Río Mapacho, 500 m aguas abajo del centro poblado de Paucartambo, margen derecha.",
+        "coordinates": [
+            -13.306830324204626,
+            -77.5972494491965
+        ],
+        "altitude": 2940,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Huilluca",
+        "description": "Río Huilluca, 100 m aguas arriba de la confluencia con el rio Mapacho, sector de Majopata- Challabamba, margen izquierda.",
+        "coordinates": [
+            -13.21613354511268,
+            -77.65293933715618
+        ],
+        "altitude": 2863,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mapacho",
+        "description": "Río Mapacho, 300 m aguas abajo del centro poblado de Challabamba, margen derecha.",
+        "coordinates": [
+            -13.20583567924985,
+            -77.65548348591528
+        ],
+        "altitude": 2770,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mapacho",
+        "description": "Río Mapacho, 700 m aguas abajo del puente de paso al poblado de Chimur, margen derecha.",
+        "coordinates": [
+            -13.008673671633826,
+            -77.81461318456567
+        ],
+        "altitude": 2439,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Mapacho",
+        "description": "Río Mapacho, altura del centro poblado Sauay, margen izquierda.",
+        "coordinates": [
+            -12.947340034345034,
+            -77.87258632856172
+        ],
+        "altitude": 2146,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, a 20 m aguas abajo del puente de acceso al centro experimental UNSAAC. ",
+        "coordinates": [
+            -14.473757179518081,
+            -77.04187967345341
+        ],
+        "altitude": 4143,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Atuncuchu",
+        "description": "Quebrada Atuncuchu, aproximadamanete a 5 Km. Antes de la descarga al rio Vilcanota",
+        "coordinates": [
+            -14.443635691131483,
+            -76.99896707821166
+        ],
+        "altitude": 4626,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, a 400 m aguas abajo del puente de acceso a la comunidad de Huiscachani (puente colgante).",
+        "coordinates": [
+            -14.322419761184939,
+            -77.19589224489118
+        ],
+        "altitude": 3636,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Hercca",
+        "description": "Río Hercca, a 60 m aguas arriba del puente antiguo vía Sicuani-Langui (margen izquierda).\n",
+        "coordinates": [
+            -14.292393502918891,
+            -77.22119263169202
+        ],
+        "altitude": 3575,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, a 10 m aguas arriba del puente Quiroz Galvao. ",
+        "coordinates": [
+            -14.25874013940911,
+            -77.22937654061913
+        ],
+        "altitude": 3560,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, altura del colegio agropecuario de Sicuani.",
+        "coordinates": [
+            -14.251232407532093,
+            -77.23795530893071
+        ],
+        "altitude": 3531,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, aproximadamente a 200 m aguas abajo del punto de vertimiento PTAR-Sicuani.",
+        "coordinates": [
+            -14.245843115786213,
+            -77.25182549611965
+        ],
+        "altitude": 3552,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, a 50 m aguas arriba del puente de acceso a la comunidad de Queromarca del distrito de Tinta.",
+        "coordinates": [
+            -14.183221914271352,
+            -77.36751177362127
+        ],
+        "altitude": 3464,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota,  a 200 m aguas abajo del punto de vertimiento del distrito de Combapata.",
+        "coordinates": [
+            -14.101994397668104,
+            -77.43658863723172
+        ],
+        "altitude": 3474,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "CHACAMAYO",
+        "description": "Quebrada Chacamayo, a la salida de la laguna Pampamarca.",
+        "coordinates": [
+            -14.12230152049857,
+            -77.46081839539389
+        ],
+        "altitude": 3785,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Quebrada Chacamayo ",
+        "description": "Quebrada Chacamayo, a 20  m aguas arriba del puente ferroviario, centro poblado Chosecani  del distrito de Pampamarca.\n",
+        "coordinates": [
+            -14.104757877470611,
+            -77.43937652923445
+        ],
+        "altitude": 3461,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Salcca",
+        "description": "Rio Salcca, aproximadamente 2,6 km aguas abajo del CP Santa Barbara.",
+        "coordinates": [
+            -14.176766265638221,
+            -77.21978453234911
+        ],
+        "altitude": 3916,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Salcca",
+        "description": "Río Salcca, a  30 m aguas abajo del puente Colonial del distrito de Combapata.",
+        "coordinates": [
+            -14.096127824674538,
+            -77.43778521373682
+        ],
+        "altitude": 3474,
+        "category": "Categoría 4"
+    },
+    {
+        "name": "Río Chilcamayu",
+        "description": "Río Chilcamayu, cerca de los bofedales altura del sector Saytucancha, se accede por una trocha corrozable.\n",
+        "coordinates": [
+            -13.836546721360445,
+            -77.18735150913773
+        ],
+        "altitude": 4465,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Quebrada Alkatarhui",
+        "description": "Quebrada Alkatarhui, en el C.P. Pampachiari, cerca del nevado Ausangate primer cerro de piedra.",
+        "coordinates": [
+            -13.856250974430006,
+            -77.24957239983391
+        ],
+        "altitude": 4440,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Quebrada Alkatarhui",
+        "description": "Quebrada Alkatarhui, C.P. Pampachiari km 30, antes de la confluencia con el Chillcamayu.",
+        "coordinates": [
+            -13.891729693507786,
+            -77.24129404727832
+        ],
+        "altitude": 4440,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Río Ananiso",
+        "description": "Río Ananiso, aguas arriba de la unión con rio el Pitumarca, se accede por la vía Pitumarca -Chillca.\n",
+        "coordinates": [
+            -13.96109440160577,
+            -77.28825113045257
+        ],
+        "altitude": 4134,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Pitumarca",
+        "description": "Río Pitumarca, agua abajo Anexo Karhui Pitumarca Chillca.\n",
+        "coordinates": [
+            -13.97769670145629,
+            -77.34746407366352
+        ],
+        "altitude": 3999,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Pitumarca",
+        "description": "Rio Pitumarca, aguas abajo del C.P. Pitumarca y aguas arriba del puente Lantahui.\n",
+        "coordinates": [
+            -13.981980279010784,
+            -77.42095148766664
+        ],
+        "altitude": 3589,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Río pitumarca",
+        "description": "Rio Pitumarca, ubicado a 20 m aproximadamente aguas abajo del puente Checacupe.\n",
+        "coordinates": [
+            -14.025872495236133,
+            -77.45670478868344
+        ],
+        "altitude": 3439,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "TIGRE",
+        "description": "Río Tigre, aproximadamente a 20 m aguas abajo del puente de acceso a la comunidad de Paucarpata.",
+        "coordinates": [
+            -13.899323858612338,
+            -77.49769334269325
+        ],
+        "altitude": 3429,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, a 1,5 km aguas arriba del C.P. de Quiquijana, entre los distritos de Cusipata y Quiquijana.",
+        "coordinates": [
+            -13.838866541275715,
+            -77.54063047961424
+        ],
+        "altitude": 3306,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "Vilcanota",
+        "description": "Río Vilcanota, a 200 m aguas abajo del punto de vertimiento de aguas residuales del distrito de Quiquijana.",
+        "coordinates": [
+            -13.818074275394256,
+            -77.55064792609167
+        ],
+        "altitude": 3244,
+        "category": "Categoría 3"
+    },
+    {
+        "name": "TINTAYA",
+        "description": "Rio Tintaya, aproximadamente a 300 m aguas arriba del terminal nuevo Sicuani, ubicada\nen el barrio Uraypampa de la comunidad de Chumo.",
+        "coordinates": [
+            -14.262847786701338,
+            -77.23362299682343
+        ],
+        "altitude": 3547,
+        "category": "Categoría 4"
+    }
+]

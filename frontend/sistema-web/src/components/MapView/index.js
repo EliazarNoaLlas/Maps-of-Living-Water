@@ -5,7 +5,7 @@ import "leaflet/dist/leaflet.css";
 
 // Importar los archivos GeoJSON
 // Importación correcta de aguaCuerpos
-import aguaCuerpos from "../limites-peru-geojson/agua_cuerpos.json";
+import aguaCuerpos from "../agua_cuerpos.json";
 
 // Configuración del icono del marcador personalizado
 const markerIcon = new L.Icon({
