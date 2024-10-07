@@ -1,0 +1,153 @@
+{
+    "CuerposDeAgua": [
+      {
+        "NombreCuerpoDeAgua": "Quebrada Chocco",
+        "PuntoDeMuestreo": "QChoc1",
+        "FechaDeMonitoreo": "08/11/2012",
+        "HoraDeMonitoreo": "07:35",
+        "Ubicacion": "CUSCO",
+        "Parametros": [
+          {
+            "TipoParametro": "Físico-Químico",
+            "Parametros": [
+              {
+                "NombreParametro": "pH",
+                "Valor": 7.5,
+                "Unidad": "pH",
+                "LimitesECA": {
+                  "Cat.3-D1": {
+                    "minimo": 6.5,
+                    "maximo": 8.4
+                  },
+                  "Cat.3-D2": {
+                    "minimo": 6.5,
+                    "maximo": 8.4
+                  }
+                }
+              },
+              {
+                "NombreParametro": "Oxígeno Disuelto",
+                "Valor": 0.012,
+                "Unidad": "mg/L",
+                "LimitesECA": {
+                  "Cat.3-D1": {
+                    "minimo": "<=5",
+                    "maximo": "<=10"
+                  },
+                  "Cat.3-D2": {
+                    "minimo": "<=5",
+                    "maximo": "<=10"
+                  }
+                }
+              },
+              {
+                "NombreParametro": "Conductividad",
+                "Valor": 20.1,
+                "Unidad": "mg/L",
+                "LimitesECA": {
+                  "Cat.3-D1": {
+                    "minimo": "<=15",
+                    "maximo": "<=15"
+                  },
+                  "Cat.3-D2": {
+                    "minimo": "<=15",
+                    "maximo": "<=15"
+                  }
+                }
+              },
+              {
+                "NombreParametro": "Temperatura",
+                "Valor": 19.5,
+                "Unidad": "°C",
+                "LimitesECA": {
+                  "Cat.3-D1": {
+                    "minimo": "±3",
+                    "maximo": "±3"
+                  },
+                  "Cat.3-D2": {
+                    "minimo": "±3",
+                    "maximo": "±3"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NombreCuerpoDeAgua": "Río HUATANAY",
+        "PuntoDeMuestreo": "RHuat6",
+        "FechaDeMonitoreo": "09/11/2012",
+        "HoraDeMonitoreo": "10:20",
+        "Ubicacion": "CUSCO",
+        "Parametros": [
+          {
+            "TipoParametro": "Físico-Químico",
+            "Parametros": [
+              {
+                "NombreParametro": "pH",
+                "Valor": 7.85,
+                "Unidad": "pH",
+                "LimitesECA": {
+                  "Cat.3-D1": {
+                    "minimo": 6.5,
+                    "maximo": 8.4
+                  },
+                  "Cat.3-D2": {
+                    "minimo": 6.5,
+                    "maximo": 8.4
+                  }
+                }
+              },
+              {
+                "NombreParametro": "Oxígeno Disuelto",
+                "Valor": 1.04,
+                "Unidad": "mg/L",
+                "LimitesECA": {
+                  "Cat.3-D1": {
+                    "minimo": "<=5",
+                    "maximo": "<=5"
+                  },
+                  "Cat.3-D2": {
+                    "minimo": "<=5",
+                    "maximo": "<=5"
+                  }
+                }
+              },
+              {
+                "NombreParametro": "Conductividad",
+                "Valor": 37,
+                "Unidad": "mg/L",
+                "LimitesECA": {
+                  "Cat.3-D1": {
+                    "minimo": "<=15",
+                    "maximo": "<=15"
+                  },
+                  "Cat.3-D2": {
+                    "minimo": "<=15",
+                    "maximo": "<=15"
+                  }
+                }
+              },
+              {
+                "NombreParametro": "Temperatura",
+                "Valor": 17,
+                "Unidad": "°C",
+                "LimitesECA": {
+                  "Cat.3-D1": {
+                    "minimo": "±3",
+                    "maximo": "±3"
+                  },
+                  "Cat.3-D2": {
+                    "minimo": "±3",
+                    "maximo": "±3"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.main-container {
+  display: flex; /* Utilizamos flexbox para alinear el mapa y el sidebar */
+  height: 100vh; /* Aseguramos que ambos ocupen toda la altura de la pantalla */
+}
+
+.map-container {
+  flex: 4; /* El mapa ocupará más espacio que el sidebar */
+  height: 100vh;
+}
+
+.sidebar {
+  flex: 1; /* El sidebar ocupará menos espacio */
+  background-color: #f4f4f4; /* Color de fondo para el sidebar */
+  padding: 20px; /* Espaciado interno para el contenido */
+  overflow-y: auto; /* Permite el scroll si el contenido excede la altura */
+}
+
+header {
+  background-color: #282c34;
+  padding: 10px;
+  color: white;
+}
+
+h1 {
+  font-size: 1.8rem;
+}
+
+ul.sidebar-menu {
+  list-style: none; /* Eliminamos los puntos de las listas */
+  padding: 0;
+}
+
+.sidebar-item {
+  margin-bottom: 20px; /* Espaciado entre los elementos del sidebar */
+}
+
+.sidebar-item h3 {
+  font-size: 1.4rem;
+}
+
+.sidebar-item p {
+  font-size: 1rem;
+  color: #333;
+}

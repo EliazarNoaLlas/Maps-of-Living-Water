@@ -1,0 +1,80 @@
+.sidebar {
+  width: 16rem;
+  background-color: #fff;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  height: 100vh;
+  overflow-y: auto;
+  font-family: Arial, sans-serif;
+}
+
+.sidebar-header {
+  padding: 1rem;
+  background-color: #2563eb;
+  color: white;
+}
+
+.sidebar-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.sidebar-menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.accordion-item {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.accordion-trigger {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  background-color: transparent;
+  border: none;
+  text-align: left;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.accordion-trigger:hover {
+  background-color: #f3f4f6;
+}
+
+.accordion-content {
+  padding: 0.5rem 1rem;
+  background-color: #f9fafb;
+}
+
+.accordion-content ul {
+  list-style-type: none;
+  padding-left: 1rem;
+}
+
+.accordion-content li {
+  margin-bottom: 0.5rem;
+}
+
+.accordion-content select {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.generate-report-btn {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  margin: 1rem 0;
+  transition: background-color 0.2s;
+}
+
+.generate-report-btn:hover {
+  background-color: #2563eb;
+}
